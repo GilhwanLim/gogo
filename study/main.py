@@ -5,3 +5,5 @@ print("hello world, fedfsdf")
 print("last")
 
 print("siba")
+
+print("delete")
