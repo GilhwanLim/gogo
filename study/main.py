@@ -7,3 +7,5 @@ print("last")
 print("siba")
 
 print("delete")
+
+print("shangus")
